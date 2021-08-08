@@ -1,0 +1,1 @@
+# Synthetic-Seismogram-1-D
